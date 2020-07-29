@@ -1,0 +1,6 @@
+{
+    "_name":"mongo",
+    "_compose":"https://raw.githubusercontent.com/drud/ddev-contrib/master/docker-compose-services/mongodb/docker-compose.mongo.yaml",
+    "web-build/Dockerfile":"https://raw.githubusercontent.com/drud/ddev-contrib/master/docker-compose-services/mongodb/Dockerfile",
+    "_description": "Service description"
+}

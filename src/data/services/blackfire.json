@@ -1,0 +1,7 @@
+{
+    "_name": "blackfire",
+    "_compose": "https://raw.githubusercontent.com/drud/ddev-contrib/master/docker-compose-services/blackfire/docker-compose.blackfire.yaml",
+    "php/blackfire.ini": "https://raw.githubusercontent.com/drud/ddev-contrib/master/docker-compose-services/blackfire/php/blackfire.ini",
+    "message": "Make sure to edit the BLACKFIRE_SERVER_ID and BLACKFIRE_SERVER_TOKEN environment variables set in docker-compose.blackfire.yaml.",
+    "_description": "Service description"
+}
